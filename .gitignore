@@ -1,2 +1,4 @@
 # ignore Python virtual environment directory
 env/
+# .env file containing sensitive information such as API keys
+.env
