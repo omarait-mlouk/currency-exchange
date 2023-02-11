@@ -21,11 +21,8 @@ A simple app for converting between different currencies using the Python progra
 - [Requests](https://docs.python-requests.org/en/master/)
 - [Fixer API](https://fixer.io/)
 
-## Contributing
-
-If you're interested in contributing to the project, please take a look at the [contributing guidelines](CONTRIBUTING.md).
-
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.txt) file for details.
+
 
